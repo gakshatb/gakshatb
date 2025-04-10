@@ -80,16 +80,16 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/gakshatb" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/badge/HackerRank-19aa59?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank logo"  />
   </a>
   <a href="https://wa.me/6397906947" target="_blank">
-    <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/badge/Whatsapp-25d366?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="whatsapp logo"  />
   </a>
 </div>
 
 ###
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: center; justify-content: space-between; flex-direction: row;">
   <img align="left" width="70%" src="https://raw.githubusercontent.com/gakshatb/gakshatb/output/snake.svg" alt="Snake animation" />
   <div  align="right" width="30%">
     <h2>🏆 Leetcode Profile</h2>
