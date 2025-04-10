@@ -92,7 +92,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width=65%><img src="https://raw.githubusercontent.com/gakshatb/gakshatb/output/snake.svg" alt="Snake animation"/></td>
+      <td width=75% height=200><img src="https://raw.githubusercontent.com/gakshatb/gakshatb/output/snake.svg" alt="Snake animation"/></td>
       <td>
         <img src="https://leetcard.jacoblin.cool/gakshatb?ext=contest" alt="LeetCode Stats" height="150"/>
       </td>
