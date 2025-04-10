@@ -92,6 +92,7 @@
 <div align="center">
   <table>
     <tr>
+      <h4>🔥 My Streaks: </h4>
       <td width=75% height=200><img src="https://raw.githubusercontent.com/gakshatb/gakshatb/output/snake.svg" alt="Snake animation"/></td>
       <td>
         <h4>🏆 Leetcode Profile</h4>
