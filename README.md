@@ -98,7 +98,7 @@
       </td>
       <td>
         <h4>🏆 Leetcode Profile</h4>
-        <img src="https://leetcard.jacoblin.cool/gakshatb?theme=dark&font=Cinzel%20Decorative&ext=activity" alt="LeetCode Stats" height="150" width=100%/>
+        <img src="https://leetcard.jacoblin.cool/gakshatb?theme=dark&font=Cinzel%20Decorative" alt="LeetCode Stats" height="150" width=100%/>
       </td>
     </tr>
   </table>
