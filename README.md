@@ -77,13 +77,13 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/@trytofeelit" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=whiteColor=white&labelColor=&style=for-the-badge" alt="youtube logo"  />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/gakshatb" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&labelColor=&style=for-the-badge" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank logo"  />
   </a>
   <a href="https://wa.me/6397906947" target="_blank">
-    <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white&labelColor=&style=for-the-badge" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="whatsapp logo"  />
   </a>
 </div>
 
