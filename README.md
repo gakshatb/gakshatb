@@ -89,12 +89,12 @@
 
 ###
 
-<div>
+<div style="display: flex; align-items: center; justify-content: space-between;">
   <img align="left" width="70%" src="https://raw.githubusercontent.com/gakshatb/gakshatb/output/snake.svg" alt="Snake animation" />
-  <h2 align="right" width="30%">🏆 Leetcode Profile</h2>
-  <p align="right">
+  <div>
+    <h2 align="right" width="30%">🏆 Leetcode Profile</h2>
     <img src="https://leetcard.jacoblin.cool/gakshatb?ext=contest" alt="LeetCode Stats" height="150" width="30%"/>
-  </p>
+  </div>
 </div>
 
 ###
