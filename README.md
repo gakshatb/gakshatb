@@ -94,7 +94,6 @@
   <h2 align="right" width="30%">🏆 Leetcode Profile</h2>
   <p align="right">
     <img src="https://leetcard.jacoblin.cool/gakshatb?ext=contest" alt="LeetCode Stats" height="150" width="30%"/>
-    <img src="https://leetcard.jacoblin.cool/gakshatb?ext=contest" alt="LeetCode Stats" width="30%"/>
   </p>
 </div>
 
