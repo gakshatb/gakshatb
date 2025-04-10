@@ -9,7 +9,7 @@
 
 ###
 
-<img src="https://leetcard.jacoblin.cool/gakshatb?ext=contest" alt="LeetCode Stats" width="30%"/>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -90,10 +90,10 @@
 ###
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://raw.githubusercontent.com/gakshatb/gakshatb/output/snake.svg" alt="Snake animation" />
-  <h2 align="right">🏆 Leetcode Profile</h2>
+  <img align="left" width="70%" src="https://raw.githubusercontent.com/gakshatb/gakshatb/output/snake.svg" alt="Snake animation" />
+  <h2 align="right" width="30%">🏆 Leetcode Profile</h2>
   <p align="right">
-    <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+    <img src="https://leetcard.jacoblin.cool/gakshatb?ext=contest" alt="LeetCode Stats" height="150" width="30%"/>
     <img src="https://leetcard.jacoblin.cool/gakshatb?ext=contest" alt="LeetCode Stats" width="30%"/>
   </p>
 </div>
