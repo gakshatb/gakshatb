@@ -88,6 +88,17 @@
 </div>
 
 ###
+<!-- Final Row: Snake and LeetCode side-by-side -->
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/gakshatb/gakshatb/output/snake.svg" alt="Snake animation" /></td>
+      <td>
+        <img src="https://leetcard.jacoblin.cool/gakshatb?ext=contest" alt="LeetCode Stats" height="150"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div style="display: flex; align-items: center; justify-content: space-between; flex-direction: row;">
   <img align="left" height="150" width="70%" src="https://raw.githubusercontent.com/gakshatb/gakshatb/output/snake.svg" alt="Snake animation" />
