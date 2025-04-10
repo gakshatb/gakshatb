@@ -89,7 +89,7 @@
 
 ###
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div>
   <img align="left" width="70%" src="https://raw.githubusercontent.com/gakshatb/gakshatb/output/snake.svg" alt="Snake animation" />
   <h2 align="right" width="30%">🏆 Leetcode Profile</h2>
   <p align="right">
