@@ -87,10 +87,13 @@
   </a>
 </div>
 
-<br clear="both">
 
-<h2 align="right">🏆 Leetcode Profile</h2>
-<p align="right">
-  <img src="https://leetcard.jacoblin.cool/gakshatb?ext=contest" alt="LeetCode Stats" width="30%"/>
-</p>
-<img src="https://raw.githubusercontent.com/gakshatb/gakshatb/output/snake.svg" alt="Snake animation" />
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <img src="https://raw.githubusercontent.com/gakshatb/gakshatb/output/snake.svg" alt="Snake animation" />
+  <h2 align="right">🏆 Leetcode Profile</h2>
+  <p align="right">
+    <img src="https://leetcard.jacoblin.cool/gakshatb?ext=contest" alt="LeetCode Stats" width="30%"/>
+  </p>
+</div>
+
+<br clear="both">
