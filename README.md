@@ -94,6 +94,7 @@
     <tr>
       <td width=75% height=200><img src="https://raw.githubusercontent.com/gakshatb/gakshatb/output/snake.svg" alt="Snake animation"/></td>
       <td>
+        <h4>🏆 Leetcode Profile</h4>
         <img src="https://leetcard.jacoblin.cool/gakshatb?ext=contest" alt="LeetCode Stats" height="150" width=100%/>
       </td>
     </tr>
