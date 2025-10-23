@@ -118,8 +118,8 @@
     <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" alt="jyot" height="100" width="100" /></a>
     <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="100" width="100" /></a>
     <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="jyot" height="100" width="100" /></a>
+    <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="100" width="100" /></a>
+    <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" alt="jyot" height="100" width="100" /></a>
     <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" alt="jyot" height="100" width="100" /></a>
     <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/lg365.png" alt="jyot" height="100" width="100" /></a>
     <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-lg.png" alt="jyot" height="100" width="100" /></a>
