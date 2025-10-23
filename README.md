@@ -122,7 +122,7 @@
     <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" alt="jyot" height="100" width="100" /></a>
     <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" alt="jyot" height="100" width="100" /></a>
     <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/lg365.png" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/lg365.png" alt="jyot" height="100" width="100" /></a>
+    <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-lg.png" alt="jyot" height="100" width="100" /></a>
   </p>
 </div>
 
