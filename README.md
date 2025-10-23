@@ -116,12 +116,8 @@
     <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" alt="jyot" height="100" width="100" /></a>
     <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" alt="jyot" height="100" width="100" /></a>
     <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="jyot" height="100" width="100" /></a>
     <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="100" width="100" /></a>
     <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="100" width="100" /></a>
     <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="100" width="100" /></a>
     <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="100" width="100" /></a>
   </p>
