@@ -96,10 +96,6 @@
     <tr>
       <td width=75% height=200>
         <h4>🔥 My Streaks: </h4>
-        ## 🧠 LeetCode Activity
-
-![LeetCode Calendar](https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/<REPO_NAME>/output/leetcode.svg)
-
         <img src="https://raw.githubusercontent.com/gakshatb/gakshatb/output/snake.svg" alt="Snake animation"/>
       </td>
       <td>
@@ -109,6 +105,7 @@
     </tr>
   </table>
 </div>
+
 
 <div align="center"> 
   <h2 align="center">Leetcode Badges<h2>  
