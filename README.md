@@ -125,5 +125,11 @@
   </p>
 </div>
 
-
 <br clear="both">
+
+<h3 align="center">🏅 My Holopin Badges</h3>
+<div align="center">
+  <a href="https://holopin.io/@gakshatb">
+    <img src="https://holopin.me/gakshatb" alt="@gakshatb's Holopin Badges" width="95%" />
+  </a>
+</div>
