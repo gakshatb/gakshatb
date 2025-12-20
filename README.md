@@ -1,5 +1,10 @@
 <h2 align="left">Hi 👋! My name is Akshat and I'm a Engineering Student.</h2>
 
+<h3 align="center">📊 My GitHub Activity</h3>
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" height="700px" width="820px">
+</div>
+
 ###
 
 <div align=center>
