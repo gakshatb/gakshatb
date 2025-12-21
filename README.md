@@ -101,7 +101,7 @@
     <tr>
       <td width=75% height=200>
         <h4>🔥 My Streaks: </h4>
-        <img src="https://raw.githubusercontent.com/gakshatbgakshatb/gakshatbgakshatb/output/snake.svg" />
+        <img src="https://raw.githubusercontent.com/gakshatb/gakshatb/output/snake.svg" />
         <!-- <img src="https://raw.githubusercontent.com/gakshatb/gakshatb/output/snake.svg" alt="Snake animation"/> -->
       </td>
       <td>
