@@ -101,7 +101,8 @@
     <tr>
       <td width=75% height=200>
         <h4>🔥 My Streaks: </h4>
-        ![LeetCode Snake](https://raw.githubusercontent.com/gakshatbgakshatb/gakshatbgakshatb/output/leetcode-snake.svg)
+        <!-- ![LeetCode Snake]() -->
+        <img src="https://raw.githubusercontent.com/gakshatbgakshatb/gakshatbgakshatb/output/leetcode-snake.svg" alt="Snake animation"/>
         <!-- <img src="https://raw.githubusercontent.com/gakshatb/gakshatb/output/snake.svg" alt="Snake animation"/> -->
       </td>
       <td>
