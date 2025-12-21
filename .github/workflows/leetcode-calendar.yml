@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Generate LeetCode calendar SVG
-        uses: yihong0618/leetcode-calendar@main
+        uses: yihong0618/leetcode-calendar@v1
         with:
           username: gakshatb
           output: dist/leetcode.svg
