@@ -29,7 +29,7 @@ jobs:
           SNAKE_COLOR: "#58A6FF"
 
       - name: Push leetcode-snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
