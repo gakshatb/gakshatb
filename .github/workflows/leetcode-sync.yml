@@ -22,13 +22,15 @@ jobs:
       - name: Install requests
         run: pip install requests
 
+      - name: Configure git identity
+        run: |
+          git config user.name "LeetCode Sync Bot"
+          git config user.email "bot@users.noreply.github.com"
+
       - name: Run LeetCode Sync
         run: python leetcode_sync.py
 
       - name: Push commits
         run: |
-          git config user.name "LeetCode Sync Bot"
-          git config user.email "bot@users.noreply.github.com"
+          git pull --rebase --autostash
           git push
-
-
