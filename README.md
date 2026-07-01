@@ -1,4 +1,11 @@
-<h2 align="left">Hi 👋! My name is Akshat and I'm a Engineering Student.</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Akshat%20B.%20Gupta&fontSize=48&fontColor=d8b4fe&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20Scientist%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Dual-Degree+Engineer+%E2%80%94+IIT+Madras+%2B+WCE+Sangli;Software+Engineering+%7C+Data+Science+%7C+AI%2FML;Building+Full-Stack+Systems+End-to-End;GATE+2025+%26+2026+Qualified+%E2%80%94+Data+Science+%26+ECE" alt="Typing SVG" />
+</a>
+
+<!-- <h2 align="left">Hi 👋! My name is Akshat and I'm a Engineering Student.</h2> -->
 
 <h3 align="center">📊 My GitHub Activity</h3>
 <div align="center">
@@ -93,6 +100,48 @@
     <img src="https://img.shields.io/badge/Whatsapp-25d366?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="whatsapp logo"  />
   </a>
 </div>
+
+
+---
+
+<h2 align="center">🟣 About Me</h2>
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280">
+
+I'm a **final-year dual-degree engineer**, pursuing a **B.Tech in Electronics Engineering** at Walchand College of Engineering, Sangli, alongside a **BS in Data Science & Applications** at **IIT Madras**. I build complete, production-style systems — backend APIs, async task pipelines, AI-assisted features, and the frontends that tie them together.
+
+My work sits at the intersection of **software engineering**, **applied machine learning**, and **full-stack product development**. I care about understanding systems deeply rather than treating them as black boxes — from REST API design and caching strategy down to how a model's predictions actually get used.
+
+I've qualified **GATE twice, in both Data Science & AI and Electronics & Communication** — a reflection of a genuinely cross-disciplinary academic base. I've led technical teams as **AI/ML Lead at Google Developer Student Club** and as **Event Director at ELESA**, and worked hands-on with hardware validation during my internship at **SEDEMAC Mechatronics**.
+
+```yaml
+🎯 Open To:
+  - Software Engineering roles
+  - Backend Development
+  - Data Science / AI-ML Engineering
+  - Full-Stack Engineering opportunities
+```
+
+<br clear="right"/>
+
+---
+
+<h2 align="center">🟣 Achievements</h2>
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🏆 **GATE 2026 — Data Science & AI** | All-India Rank 5690, demonstrating strong fundamentals in ML, statistics, and algorithms |
+| 🏆 **GATE 2026 — Electronics & Communication** | All-India Rank 7739, covering Signals & Systems, Communication Engineering, Embedded Systems |
+| 🏆 **GATE 2025 — Data Science & AI** | All-India Rank 1604, validating analytical and ML problem-solving ability |
+| 🏆 **GATE 2025 — Electronics & Communication** | All-India Rank 3214, covering core ECE subjects |
+| 🎓 **Dual-Degree Distinction** | Simultaneously pursuing IIT Madras BS (DS) + WCE B.Tech (Electronics) |
+
+</div>
+
+---
+
 
 ###
 <!-- Final Row: Snake and LeetCode side-by-side -->
