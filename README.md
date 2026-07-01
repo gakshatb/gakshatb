@@ -124,6 +124,59 @@ I've qualified **GATE twice, in both Data Science & AI and Electronics & Communi
 
 <br clear="right"/>
 
+
+
+
+
+---
+
+<h2 align="center">🟣 Experience</h2>
+
+<table align="center" width="100%">
+<tr>
+<td>
+
+**Hardware Test Intern · SEDEMAC Mechatronics Ltd.**
+`June 2025 – Dec. 2025`
+
+Validated system behavior, analyzed test data, and collaborated with cross-functional teams to ensure product reliability in a fast-paced, product-based environment.
+
+- Executed structured test procedures and documented results systematically
+- Identified anomalies and supported troubleshooting workflows
+- Worked hands-on with DSOs, multimeters, power supplies, and embedded hardware tools
+- Used Python for test-data logging and analysis
+
+`Python` `DSO` `Embedded Hardware` `Signal Measurement` `Technical Documentation`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Coordinator · Training & Placement Office, WCE**
+`June 2025 – Apr. 2026`
+
+Supported placement activities by coordinating with recruiters, managing student communication, and streamlining participation processes.
+
+`Stakeholder Coordination` `Process Management` `Communication`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Event Director · Electronics Engineering Students Association (ELESA)**
+`Sep. 2023 – Apr. 2025`
+
+Planned and executed technical and non-technical events — managing teams, coordinating logistics, and driving high participation.
+
+`Team Leadership` `Event Planning` `Logistics`
+
+</td>
+</tr>
+</table>
+
+
 ---
 
 <h2 align="center">🟣 Achievements</h2>
