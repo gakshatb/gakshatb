@@ -7,7 +7,7 @@
 <h3 align="center">📊 My GitHub Activity</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gakshatb/gakshatb/main/SVG_files/profile-night-rainbow.svg" alt="3D Contribution Graph" height="700px" width="820px">
+  <img src="https://raw.githubusercontent.com/gakshatb/gakshatb/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" height="700px" width="820px">
 </div>
 
 ###
@@ -187,13 +187,13 @@ Planned and executed technical and non-technical events — managing teams, coor
 
 <!-- Snake and LeetCode side-by-side -->
 <div align="center">
-  <table style="background-color:#0d1117;">
+  <table>
     <tr>
-      <td width="75%" style="background-color:#0d1117;">
+      <td width="75%">
         <h4>🔥 My Streaks:</h4>
         <img src="https://raw.githubusercontent.com/gakshatb/gakshatb/output/snake.svg" alt="Snake animation" width="100%" />
       </td>
-      <td style="background-color:#0d1117;">
+      <td>
         <h4>🏆 LeetCode Profile</h4>
         <img src="https://leetcard.jacoblin.cool/gakshatb?ext=contest&theme=dark" alt="LeetCode Stats" height="150" width="100%" />
       </td>
@@ -202,8 +202,8 @@ Planned and executed technical and non-technical events — managing teams, coor
 </div>
 
 <div align="center">
-  <h2 align="center">LeetCode Badges</h2>
-  <p align="center">
+  <h2>LeetCode Badges</h2>
+  <p>
     <a href="https://leetcode.com/u/gakshatb/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="100" width="100" /></a>
     <a href="https://leetcode.com/u/gakshatb/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="100" width="100" /></a>
     <a href="https://leetcode.com/u/gakshatb/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" height="100" width="100" /></a>
