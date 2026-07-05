@@ -7,13 +7,13 @@
 <h3 align="center">📊 My GitHub Activity</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gakshatb/gakshatb/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" height="700px" width="820px">
+  <img src="https://raw.githubusercontent.com/gakshatb/gakshatb/main/SVG_files/profile-night-rainbow.svg" alt="3D Contribution Graph" height="700px" width="820px">
 </div>
 
 ###
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=gakshatb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10&hide_border=false&cache_seconds=1800" alt="readme stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=gakshatb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10&cache_seconds=1800" alt="readme stats" />
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakshatb&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&cache_seconds=1800" alt="top langs" />
 </div>
 
@@ -187,13 +187,13 @@ Planned and executed technical and non-technical events — managing teams, coor
 
 <!-- Snake and LeetCode side-by-side -->
 <div align="center">
-  <table>
+  <table style="background-color:#0d1117;">
     <tr>
-      <td width="75%" height="200">
+      <td width="75%" style="background-color:#0d1117;">
         <h4>🔥 My Streaks:</h4>
         <img src="https://raw.githubusercontent.com/gakshatb/gakshatb/output/snake.svg" alt="Snake animation" width="100%" />
       </td>
-      <td>
+      <td style="background-color:#0d1117;">
         <h4>🏆 LeetCode Profile</h4>
         <img src="https://leetcard.jacoblin.cool/gakshatb?ext=contest&theme=dark" alt="LeetCode Stats" height="150" width="100%" />
       </td>
