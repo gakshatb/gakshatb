@@ -20,13 +20,21 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: 100
+          SETTING_JSON: |
+            {
+              "githubUserName": "gakshatb",
+              "startForeColor": "#0d1117",
+              "endForeColor": "#0d1117",
+              "outputDir": "SVG_files"
+            }
 
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "generated"; then
+          if git commit -m "regenerate 3D contribution SVGs"; then
             git pull --rebase --autostash
             git push
           fi
