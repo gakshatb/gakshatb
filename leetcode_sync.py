@@ -41,21 +41,23 @@ except (requests.RequestException, KeyError, json.JSONDecodeError) as e:
     sys.exit(0)
 
 today_utc = datetime.datetime.now(datetime.timezone.utc).date()
-today_ts = str(int(datetime.datetime(
-    today_utc.year, today_utc.month, today_utc.day, tzinfo=datetime.timezone.utc
+
+target_date = today_utc - datetime.timedelta(days=1)
+target_ts = str(int(datetime.datetime(
+    target_date.year, target_date.month, target_date.day, tzinfo=datetime.timezone.utc
 ).timestamp()))
 
-today_count = calendar.get(today_ts, 0)
+target_count = calendar.get(target_ts, 0)
 
-if today_count > 0:
+if target_count > 0:
     with open("leetcode_commits.txt", "a") as f:
-        f.write(f"{today_utc.isoformat()} : {today_count}\n")
+        f.write(f"{target_date.isoformat()} : {target_count}\n")
 
     subprocess.run(["git", "add", "leetcode_commits.txt"], check=True)
     commit = subprocess.run(
-        ["git", "commit", "-m", f"leetcode {today_utc.isoformat()}"]
+        ["git", "commit", "-m", f"leetcode {target_date.isoformat()}"]
     )
     if commit.returncode != 0:
         print("Nothing new to commit (already logged today).")
 else:
-    print("No LeetCode activity recorded for today yet.")
+    print(f"No LeetCode activity recorded for {target_date.isoformat()}.")
