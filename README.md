@@ -7,7 +7,7 @@
 <h3 align="center">📊 My GitHub Activity</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gakshatb/gakshatb/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" height="700px" width="820px">
+  <img src="https://raw.githubusercontent.com/gakshatb/gakshatb/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" height="700px" width="820px">
 </div>
 
 ###
