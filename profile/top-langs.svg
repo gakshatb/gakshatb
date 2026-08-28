@@ -170,7 +170,7 @@
           data-testid="lang-progress"
           x="223.12"
           y="0"
-          width="19.23"
+          width="19.24"
           height="8"
           fill="#3572A5"
         />
@@ -260,7 +260,7 @@
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 1050ms">
       <circle cx="5" cy="6" r="5" fill="#41b883" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Vue 1.67%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Vue 1.66%</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 1200ms">
