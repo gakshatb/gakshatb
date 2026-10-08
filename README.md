@@ -210,16 +210,11 @@ Planned and executed technical and non-technical events — managing teams, coor
     <a href="https://leetcode.com/u/gakshatb/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" height="100" width="100" /></a>
     <a href="https://leetcode.com/u/gakshatb/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" height="100" width="100" /></a>
     <a href="https://leetcode.com/u/gakshatb/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" height="100" width="100" /></a>
-    <a href="https://leetcode.com/u/gakshatb/" target="_blank"><img src="https://leetcode.com/static/images/badges/2026/gif/2026-07.gif" height="100" width="100" /></a>
-    <a href="https://leetcode.com/u/gakshatb/" target="_blank"><img src="https://leetcode.com/static/images/badges/2026/gif/2026-08.gif" height="100" width="100" /></a>
-    <a href="https://leetcode.com/u/gakshatb/" target="_blank"><img src="https://leetcode.com/static/images/badges/2026/gif/2026-09.gif" height="100" width="100" /></a>
     <a href="https://leetcode.com/u/gakshatb/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="100" width="100" /></a>
     <a href="https://leetcode.com/u/gakshatb/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="100" width="100" /></a>
     <a href="https://leetcode.com/u/gakshatb/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="100" width="100" /></a>
-    <a href="https://leetcode.com/u/gakshatb/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" height="100" width="100" /></a>
-    <a href="https://leetcode.com/u/gakshatb/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" height="100" width="100" /></a>
-    <a href="https://leetcode.com/u/gakshatb/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2026-50.gif" height="100" width="100" /></a>
-    <a href="https://leetcode.com/u/gakshatb/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2026-100.gif" height="100" width="100" /></a>
+    <a href="https://leetcode.com/u/gakshatb/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" height="100" width="100" /></a>
+    <a href="https://leetcode.com/u/gakshatb/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/lg500.png" height="100" width="100" /></a>
   </p>
 </div>
 
