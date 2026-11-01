@@ -2,7 +2,7 @@
 
 
 <a href="https://gakshatb.github.io/Portfolio" target="blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=System+Engineer+@+TCS;Dual-Degree+Engineer+%E2%80%94+IIT+Madras+%2B+WCE+Sangli;Software+Engineering+%7C+Data+Science+%7C+AI%2FML;Building+Full-Stack+Systems+End-to-End;GATE+2025+%26+2026+Qualified+%E2%80%94+Data+Science+%26+ECE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=System+Engineer+@+TCS+|+NQT+Prime;Dual-Degree+Engineer+%E2%80%94+IIT+Madras+%2B+WCE+Sangli;Software+Engineering+%7C+Data+Science+%7C+AI%2FML;Building+Full-Stack+Systems+End-to-End;GATE+2025+%26+2026+Qualified+%E2%80%94+Data+Science+%26+ECE" alt="Typing SVG" />
 </a>
 
 <h3 align="center">📊 My GitHub Activity</h3>
