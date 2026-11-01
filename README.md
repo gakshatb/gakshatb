@@ -104,7 +104,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280">
 
-I'm a **final-year dual-degree engineer**, pursuing a **B.Tech in Electronics Engineering** at Walchand College of Engineering, Sangli, alongside a **BS in Data Science & Applications** at **IIT Madras**. I build complete, production-style systems — backend APIs, async task pipelines, AI-assisted features, and the frontends that tie them together.
+I'm a **Systems Engineer at TCS** and a **final-year dual-degree engineer**, pursuing a **B.Tech in Electronics Engineering** at Walchand College of Engineering, Sangli, alongside a **BS in Data Science & Applications** at **IIT Madras**. I build complete, production-style systems — backend APIs, async task pipelines, AI-assisted features, and the frontends that tie them together.
 
 My work sits at the intersection of **software engineering**, **applied machine learning**, and **full-stack product development**. I care about understanding systems deeply rather than treating them as black boxes — from REST API design and caching strategy down to how a model's predictions actually get used.
 
