@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Akshat%20B.%20Gupta&fontSize=48&fontColor=d8b4fe&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20Scientist%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Dual-Degree+Engineer+%E2%80%94+IIT+Madras+%2B+WCE+Sangli;Software+Engineering+%7C+Data+Science+%7C+AI%2FML;Building+Full-Stack+Systems+End-to-End;GATE+2025+%26+2026+Qualified+%E2%80%94+Data+Science+%26+ECE" alt="Typing SVG" />
+
+<a href="https://gakshatb.github.io/Portfolio" target="blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=System+Engineer+@+TCS;Dual-Degree+Engineer+%E2%80%94+IIT+Madras+%2B+WCE+Sangli;Software+Engineering+%7C+Data+Science+%7C+AI%2FML;Building+Full-Stack+Systems+End-to-End;GATE+2025+%26+2026+Qualified+%E2%80%94+Data+Science+%26+ECE" alt="Typing SVG" />
 </a>
 
 <h3 align="center">📊 My GitHub Activity</h3>
