@@ -128,6 +128,18 @@ I've qualified **GATE twice, in both Data Science & AI and Electronics & Communi
 <tr>
 <td>
 
+**Systems Engineer · Tata Consultancy Services (TCS)**
+`Oct 2026 – Present`
+
+Joined through the TCS NQT Prime track, working on enterprise-scale systems and delivery in a collaborative, client-focused environment.
+
+`Software Engineering` `Systems Engineering` `Team Collaboration`
+
+</td>
+</tr>
+<tr>
+<td>
+
 **Hardware Test Intern · SEDEMAC Mechatronics Ltd.**
 `June 2025 – Dec. 2025`
 
